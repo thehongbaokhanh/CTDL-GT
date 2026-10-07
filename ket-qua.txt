@@ -1,0 +1,9 @@
+Câu 1: Tìm kiếm tuyến tính
+Mảng: [12, 11, 13, 5, 6]
+Tìm thấy 13 tại chỉ số 2 (tính từ 0).
+
+Câu 2: Sắp xếp chèn
+Mảng sau khi sắp xếp tăng dần: [5, 6, 11, 12, 13]
+
+Câu 3: Tính giai thừa bằng đệ quy
+Giai thừa của 5 là: 120
